@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\SocketServer\SocketCom\bin\Debug\SocketCom.dll
+C:\Users\hp\Desktop\SocketServer\SocketCom\bin\Debug\SocketCom.pdb
+C:\Users\hp\Desktop\SocketServer\SocketCom\obj\Debug\SocketCom.dll
+C:\Users\hp\Desktop\SocketServer\SocketCom\obj\Debug\SocketCom.pdb

@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\hp\Desktop\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\hp\Desktop\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\hp\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\hp\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\hp\Desktop\SocketServer\SocketServer\bin\Debug\SocketCom.dll
+C:\Users\hp\Desktop\SocketServer\SocketServer\bin\Debug\SocketCom.pdb
