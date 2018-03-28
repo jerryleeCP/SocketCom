@@ -12,10 +12,19 @@ namespace SocketCom
         public string IP = "127.0.0.1";
         public int Port = 8088;
         public int MaxConnectCount = 10;
-        public int ReceiveBufferSize = 1024;
+        public int ReceiveBufferSize
+        {
+            get { return receiveBufferSize; }
+            set
+            {
+                receiveBufferSize = value;
+                receiveBuffer = new byte[ReceiveBufferSize];
+            }
+        }
         public Action<Socket, int, byte[]> MessageHandler;
         public int ConnectedCount { get { return clientSockets.Count; } }
 
+        private int receiveBufferSize = 1024;
         private byte[] receiveBuffer;
         private Socket serverSocket;
         private List<Socket> clientSockets;
